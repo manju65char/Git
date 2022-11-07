@@ -1,1 +1,1 @@
-hello this manjunath and wanna be expert in devops 
+practice a : pushing commit to remote repo
